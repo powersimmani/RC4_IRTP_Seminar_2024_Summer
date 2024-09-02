@@ -8,6 +8,11 @@ Following the success of the winter training programs, the Center for Biosystems
 
 The presentations were held across two days, August 27th and 28th, 2024, providing an invaluable opportunity for knowledge exchange and feedback.
 
+
+![Figure1](./Figure1.png)
+![Figure2](./Figure2.png)
+
+
 ### August 27th Session
 
 | Presenter                                | Title                                                                           | PPT Link |
