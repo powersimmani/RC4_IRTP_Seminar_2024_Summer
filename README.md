@@ -17,7 +17,7 @@ The presentations were held across two days, August 27th and 28th, 2024, providi
 | Seonil Jee                               | Prediction of Ribonanza RNA Structure with Transformers                         | [Link](https://www.dropbox.com/scl/fi/s71o3t869mf6cb57t68fr/20240827-Seonil-Jee.pdf?rlkey=ks4inflozd2xdytbl5vdeejqe&st=x6zby5g5&dl=0) |
 | Subin Hyun                               | Harmful Brain Activity Classification                                           | [Link](https://www.dropbox.com/scl/fi/m2ccoqlxuzs94yg8axg89/20240827-Subin-Hyun.pdf?rlkey=pu2derqef6f9hjgkowryp0b1j&st=knxmhurm&dl=0) |
 | Yujin Kim                                | Exploring Deep Learning: From Coursera Studies to Practical Applications        | [Link](https://www.dropbox.com/scl/fi/wzcp2q7ksha412s50vctg/20240828-Yujin-Kim.pdf?rlkey=dx7c0p7yymvfsev4fwlbtp2xt&st=3idicjul&dl=0) |
-| Wonjun Yang, Jungyeon Woo, Yujeong Jung  | [Presentation Title]                                                            | [Link](https://www.dropbox.com/scl/fi/zrl779axcywgebqp12j99/20240828-Wonjun-Yang-Jungyeon-Woo-Yujeong-Jung.pdf?rlkey=2rsrir4d2gtf91fm9iq7mbnoc&st=f05py2uw&dl=0) |
+| Wonjun Yang, Jungyeon Woo, Yujeong Jung  | Generating Splice sites Using Diffusion Model                                   | [Link](https://www.dropbox.com/scl/fi/zrl779axcywgebqp12j99/20240828-Wonjun-Yang-Jungyeon-Woo-Yujeong-Jung.pdf?rlkey=2rsrir4d2gtf91fm9iq7mbnoc&st=f05py2uw&dl=0) |
 
 ### August 28th Session
 
