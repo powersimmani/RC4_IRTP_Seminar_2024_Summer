@@ -9,11 +9,10 @@ Following the success of the winter training programs, the Center for Biosystems
 The presentations were held across two days, August 27th and 28th, 2024, providing an invaluable opportunity for knowledge exchange and feedback.
 
 
-![Figure1](./Figure1.png)
-![Figure2](./Figure2.png)
 
 
 ### August 27th Session
+![Figure1](./Figure1.png)
 
 | Presenter                                | Title                                                                           | PPT Link |
 |------------------------------------------|---------------------------------------------------------------------------------|----------|
@@ -25,6 +24,7 @@ The presentations were held across two days, August 27th and 28th, 2024, providi
 | Wonjun Yang, Jungyeon Woo, Yujeong Jung  | Generating Splice sites Using Diffusion Model                                   | [Link](https://www.dropbox.com/scl/fi/zrl779axcywgebqp12j99/20240828-Wonjun-Yang-Jungyeon-Woo-Yujeong-Jung.pdf?rlkey=2rsrir4d2gtf91fm9iq7mbnoc&st=f05py2uw&dl=0) |
 
 ### August 28th Session
+![Figure2](./Figure2.png)
 
 | Presenter     | Title                                                                                  | PPT Link |
 |---------------|----------------------------------------------------------------------------------------|----------|
