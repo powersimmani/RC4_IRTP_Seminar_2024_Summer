@@ -2,7 +2,7 @@
 
 Organized by Ho-min Park (Ph.D. Student, Ghent University)
 
-Following the success of the winter training programs, the Center for Biosystems and Biotech Data Science (RC4) at Ghent University Global Campus conducted a summer school program in 2024. This initiative was designed to further enhance undergraduate students' understanding of their fields and develop their practical research skills. The summer program culminated in a series of presentations where participants shared their research outcomes.
+Following the success of the winter training programs, the Center for Biosystems and Biotech Data Science (RC4) at Ghent University Global Campus conducted a summer school program in 2024. This initiative was designed further to enhance undergraduate students' understanding of their fields and develop their practical research skills using on math and machine learning. The summer program culminated in presentations where participants shared their research outcomes. For detailed inquiries about presenters and presentation materials, please contact the individual students using the contact information provided in each presentation file or contact the responsible TA (homin.park@ghent.ac.kr).
 
 ## Seminar Presentations
 
@@ -35,9 +35,6 @@ The presentations were held across two days, August 27th and 28th, 2024, providi
 | Jongbum Won   | Lessons I Wish I Knew Earlier - Key Insights from My GUGC Journey                      | [Link](https://www.dropbox.com/scl/fi/2vzk04opte1zxrj3eoalg/20240828-Jongbum-Won.pdf?rlkey=imhf1kg1mk6ndi58kn4a65ee9&st=e0qxamgg&dl=0) |
 | Taekeun Kim   | Singular value decomposition (SVD) in data compression                                 | [Link](https://www.dropbox.com/scl/fi/34du3e73k3wawy3sxtyy4/20240828-Taekeun-Kim.pdf?rlkey=6a2kjvslj7xucwbihucrd9mxm&st=ftma2ebf&dl=0) |
 
-## IRTP Summer School Program
-
-The IRTP summer school is part of our commitment to nurturing the skills and knowledge of our students in the field of AI and related research areas. 
 
 ### Teaching Assistants
 
@@ -46,4 +43,3 @@ The following Teaching Assistants participated in this summer's program:
 1. Ho-min Park
 2. Espoir Kabanga
 
-We thank all participants, presenters, and teaching assistants for their contributions to making this summer school program a success.
